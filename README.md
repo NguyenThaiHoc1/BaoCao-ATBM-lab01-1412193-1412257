@@ -8,13 +8,13 @@
 
 >`Những User :  1412200 (P.NS), 1412001(P.KT), 1412002(P.KH), ... là các Trưởng phòng`
 
->`Những User :  1412173 là quản lý dự án
+>`Những User :  1412173 là quản lý dự án`
 
 >`Những User : 1412186, 1412192, 1412200,1412201,1412202,1412203,1412204,1412205, ... , 1412213 là các Nhân viên bình thường`
 
 + #### Ví dụ từ mã nguồn:
 
->`create user NV401 identified by 123;`
+>`create user 1412193 identified by 123456;`
 
 ## Policy2: Tạo role cho các vị trí phù hợp của công ty
 
