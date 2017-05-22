@@ -14,11 +14,11 @@
 
 + #### Ví dụ từ mã nguồn:
 
->`create user 1412193 identified by 123456;`
+>`create user "1412193" identified by 123456;`
 
 ## Policy2: Tạo role cho các vị trí phù hợp của công ty
 
-### Tạo ra 5 role gồm: GiamDoc, Truong_CN_CTY, Truong_Phong_CTY, Truong_DA_CTY, NV_BT_CTY
+### Tạo ra 5 role gồm: GiamDoc, truongphong, truongchinhanh, truongduan, nhanvien
 
 + #### Ví dụ từ mã nguồn:
 
