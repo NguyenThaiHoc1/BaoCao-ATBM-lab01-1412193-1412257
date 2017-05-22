@@ -4,13 +4,13 @@
 
 >`User 1412239 là Giám Đốc`
 
->`Những User :  1412193, 1412176, 1412195, ... (có rất nhiều Trưởng chi nhánh nhưng tụi em liệt kê 1 số ra) là các Trưởng chi nhánh`
+>`Những User :  1412193, 1412176, 1412195, 1412245, 1412232, ... (có rất nhiều Trưởng chi nhánh nhưng tụi em liệt kê 1 số ra) là các Trưởng chi nhánh`
 
->`Những User :  1412200 (P.NS), 1412001(P.KT), 1412002(P.KH), ... là các Trưởng phòng`
+>`Những User :  1412200 , 1412201, 1412202, 1412173, 1412203, 1412204, ... là các Trưởng phòng`
 
->`Những User :  1412173, ... là quản lý dự án`
+>`Những User :  1412205, 1412206, 1412207, 1412208, 1412209, ... là quản lý dự án`
 
->`Những User : 1412186, 1412192, 1412200,1412201,1412202,1412203,1412204,1412205, ... , 1412213 là các Nhân viên bình thường`
+>`Những User : 1412186, 1412192, 1412257, 1412258, .... là các Nhân viên bình thường`
 
 + #### Ví dụ từ mã nguồn:
 
